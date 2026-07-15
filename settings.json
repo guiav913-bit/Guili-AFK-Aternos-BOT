@@ -8,7 +8,7 @@
   "server": {
     "ip": "guilismp.aternos.me",
     "port": 30523,
-    "version": "26.1",
+    "version": "1.21.6",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chili178"
     },
     "anti-afk": {
       "enabled": true,
